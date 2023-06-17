@@ -3,3 +3,4 @@ Machine learning algorithms for solving real-world classification and clustering
 Lecturers:
 Dr. Long Chen (Module Leader), Prof. Vasile Palade, Dr. Xiaorui Jiang
 Individual Research Paper:  100% of the module mark!
+Code written by Charles Nwankpa
